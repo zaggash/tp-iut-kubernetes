@@ -42,4 +42,4 @@ Les compétences visées:
 ***Amusez-vous !***
 
 
-![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/494px-Kubernetes_logo_without_workmark.svg.png)]
+![Kubernetes Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/494px-Kubernetes_logo_without_workmark.svg.png)
