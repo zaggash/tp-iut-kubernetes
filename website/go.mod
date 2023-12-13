@@ -2,4 +2,4 @@ module github.com/zaggash/tp-iut-kubernetes
 
 go 1.20
 
-require github.com/McShelby/hugo-theme-relearn v0.0.0-20230328175528-8d474ed3b16b // indirect
+require github.com/McShelby/hugo-theme-relearn v0.0.0-20231205153252-e08d5a54a55b // indirect
