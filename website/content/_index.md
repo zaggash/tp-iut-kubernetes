@@ -1,10 +1,7 @@
 ---
 title: "Home"
-chapter: true
 draft: false
 ---
-
-# Home
 
 Afin de mener à bien le TP, vous aurez besoin de 3 VMs.  
 L’objectif de ce TP est d’orchestrer des containers pour améliorer la disponibilité et la scalabilité des
