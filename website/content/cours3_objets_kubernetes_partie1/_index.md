@@ -355,7 +355,7 @@ Les Services sont de trois types principaux :
 
 ## Les autres types de Workloads Kubernetes
 
-![](../../images/kubernetes/k8s_objects_hierarchy.png?width=600px)
+![](./k8s_objects_hierarchy.png)
 
 
 En plus du déploiement d'un application, Il existe pleins d'autre raisons de créer un ensemble de Pods:
